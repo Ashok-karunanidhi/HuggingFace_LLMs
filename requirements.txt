@@ -10,3 +10,10 @@ transformers==4.47.0
 cmake==3.27.0
 SentencePiece
 accelerate
+huggingface_hub 
+tiktoken 
+pymupdf 
+langchain
+langchain-community
+chromadb
+llama-cpp-python
